@@ -1,6 +1,6 @@
 # Ciao, sono Gianni 👋
 
-**Full-Stack Developer** con un passato da **graphic designer**: l'occhio per il design e la cura del dettaglio li porto in ogni interfaccia che sviluppo, dal front-end al back-end.
+**Full-Stack Developer** con un passato da **graphic designer**: l'occhio per il design e la cura del dettaglio li porto in ogni progetto che sviluppo, dal front-end al back-end.
 
 📍 Guidonia Montecelio (Roma)
 🎓 Master Full-Stack Developer @ EPICODE Institute of Technology
